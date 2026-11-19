@@ -1,0 +1,9 @@
+{
+  "name": "metabolic-acid-base",
+  "version": "1.0.0",
+  "description": "Interactive teaching simulator of metabolic acid–base disorders (normal- and high-anion-gap acidosis, chloride-responsive and -resistant alkalosis). ES/EN.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}

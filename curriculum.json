@@ -1,0 +1,46 @@
+{
+  "topic": "Metabolic acid–base disorders",
+  "system": "Renal / urinary",
+  "specialty": "Nephrology",
+  "eciModule": "III — Formación clínica humana",
+  "typicalSubjects": [
+    "Fisiología",
+    "Fisiopatología",
+    "Patología médica",
+    "Nefrología",
+    "Medicina intensiva / urgencias"
+  ],
+  "mirRelevant": true,
+  "keywords_es": [
+    "acidosis metabólica",
+    "alcalosis metabólica",
+    "anion gap",
+    "Winter",
+    "acidosis tubular renal",
+    "cetoacidosis",
+    "acidosis láctica",
+    "metanol",
+    "salicilatos",
+    "cloro urinario",
+    "Bartter",
+    "Gitelman"
+  ],
+  "keywords_en": [
+    "metabolic acidosis",
+    "metabolic alkalosis",
+    "anion gap",
+    "Winter's formula",
+    "renal tubular acidosis",
+    "ketoacidosis",
+    "lactic acidosis",
+    "methanol",
+    "salicylates",
+    "urine chloride",
+    "Bartter",
+    "Gitelman"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ]
+}
